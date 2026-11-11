@@ -1,0 +1,8 @@
+{
+  "name": "sama-alharamain-landing",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0"
+  }
+}
